@@ -12,3 +12,17 @@ I am Cole Christ a 28 year old recent graduate from Portland State University, t
 -  **GIS Tools**
 
     - ArcPro, ArcGIS StoryMaps, ArcGIS Field Maps, QGIS, Google Earth Pro 
+- **Visualization And Design**
+
+    - Illustrator, GIMP, Blender, Microsoft Suite
+- **Language**
+
+    - Beginner Japanese (College Courses/Self Study)
+
+# **Relevant Coursework** 
+
+- **Wetland Delineation**
+    - Used Aerial Imagery and Arc Hydro Wetland Identification Model (WIM) to analyze land use changes
+# **Work Experience**
+
+- 
