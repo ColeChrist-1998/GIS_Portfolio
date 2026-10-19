@@ -5,7 +5,7 @@ This is a portfolio of projects made using ArcPro and QGIS. This includes Python
 
 # **About Me**
 
-I am Cole Christ a 28 year old recent graduate from Portland State University, triple majoring in Geography, Social Science, and Science. Completed with minors in Geographic Information Systems (GIS), Water Resources and Sustainability. I currently am looking for my first job out of college, but am doing multiple projects for skill development.
+I am Cole Christ a 28 year old recent graduate from Portland State University, triple majoring in Geography, Social Science, and Science. Completed with minors in Geographic Information Systems (GIS), Water Resources and Sustainability. I have worked in fast paced service industry jobs and I currently am looking for my first job out of college. I moved to Oregon from Chicago because I was interested in how data can support environmental change. Which led me to Geographic Information Systems. 
 
 # **Skills**
 
